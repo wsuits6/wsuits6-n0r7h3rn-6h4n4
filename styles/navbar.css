@@ -1,0 +1,25 @@
+.navbar{
+    background-color: rgb(108, 218, 6);
+    padding: 15px;
+}
+.nav-links{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    gap: 20px;
+
+}
+.nav-links li{
+    display: inline;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Segoe UI';
+    gap: 2px;
+    background-color: white;
+    border-radius: 2px;
+
+}
